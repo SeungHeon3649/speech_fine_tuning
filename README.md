@@ -29,7 +29,7 @@
 
 <img src="https://github.com/SeungHeon3649/speech_fine_tuning/assets/94602281/bac0d532-f8df-46de-943a-5317a45f40e0" width="500" height="200"/>
 
-<img src="https://github.com/SeungHeon3649/speech_fine_tuning/assets/94602281/fd4da68f-1b95-4cfb-8960-e8e7ee3e7827" width="400" height="300"/>
+<img src="https://github.com/SeungHeon3649/speech_fine_tuning/assets/94602281/fd4da68f-1b95-4cfb-8960-e8e7ee3e7827" width="500" height="300"/>
 
 - 또한 음성으로 대화가 가능하도록 하기 위해 음성 데이터를 텍스트로 변환하고 텍스트를 음성으로 변환해주는 STT, TTS를 사용하여 실제 대화가 가능하도록 구현하였습니다.
 
